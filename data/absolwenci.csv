@@ -1,0 +1,18 @@
+"Kod";"Nazwa";"uniwersytety;absolwenci;mężczyźni;2018;[osoba]";"uniwersytety;absolwenci;kobiety;2018;[osoba]";"uczelnie techniczne;absolwenci;mężczyźni;2018;[osoba]";"uczelnie techniczne;absolwenci;kobiety;2018;[osoba]";"uczelnie rolnicze;absolwenci;mężczyźni;2018;[osoba]";"uczelnie rolnicze;absolwenci;kobiety;2018;[osoba]";"uczelnie ekonomiczne;absolwenci;mężczyźni;2018;[osoba]";"uczelnie ekonomiczne;absolwenci;kobiety;2018;[osoba]";"uczelnie pedagogiczne;absolwenci;mężczyźni;2018;[osoba]";"uczelnie pedagogiczne;absolwenci;kobiety;2018;[osoba]";"uczelnie morskie;absolwenci;mężczyźni;2018;[osoba]";"uczelnie morskie;absolwenci;kobiety;2018;[osoba]";"uniwersytety medyczne;absolwenci;mężczyźni;2018;[osoba]";"uniwersytety medyczne;absolwenci;kobiety;2018;[osoba]";"akademie wychowania fizycznego;absolwenci;mężczyźni;2018;[osoba]";"akademie wychowania fizycznego;absolwenci;kobiety;2018;[osoba]";"uczelnie artystyczne;absolwenci;mężczyźni;2018;[osoba]";"uczelnie artystyczne;absolwenci;kobiety;2018;[osoba]";"uczelnie teologiczne;absolwenci;mężczyźni;2018;[osoba]";"uczelnie teologiczne;absolwenci;kobiety;2018;[osoba]";
+0000000;"POLSKA";25360;67768;39527;29682;5912;11059;15090;30123;2403;9836;970;753;2890;10541;2714;3940;1448;3065;580;512;
+0200000;"DOLNOŚLĄSKIE";1396;4311;4614;2914;614;1681;1256;2642;136;661;0;0;268;902;422;661;152;355;61;71;
+0400000;"KUJAWSKO-POMORSKIE";2021;5671;36;6;871;741;287;467;0;0;0;0;0;0;0;0;50;86;0;0;
+0600000;"LUBELSKIE";2182;5674;1578;925;763;1617;10;41;10;33;0;0;357;1120;254;238;0;0;0;0;
+0800000;"LUBUSKIE";941;1535;0;0;0;0;14;26;0;0;0;0;0;0;56;77;0;0;0;0;
+1000000;"ŁÓDZKIE";2168;5614;2011;1918;0;0;1022;2373;0;0;0;0;454;1429;0;0;197;496;0;0;
+1200000;"MAŁOPOLSKIE";2195;5888;7212;5123;981;1862;1992;5103;780;3701;0;0;0;0;408;828;179;352;230;223;
+1400000;"MAZOWIECKIE";3405;8572;5174;4125;1733;3355;4361;6788;693;3288;0;0;421;1688;454;425;291;566;289;218;
+1600000;"OPOLSKIE";517;1659;970;752;0;0;204;386;0;0;0;0;0;0;0;0;0;0;0;0;
+1800000;"PODKARPACKIE";1269;3847;2278;2057;0;0;30;85;0;0;0;0;0;0;0;0;0;0;0;0;
+2000000;"PODLASKIE";796;2455;1367;1127;97;112;102;320;43;120;0;0;182;930;0;0;8;12;0;0;
+2200000;"POMORSKIE";1629;4823;2654;2212;0;0;992;1888;201;553;594;516;214;759;301;389;129;347;0;0;
+2400000;"ŚLĄSKIE";1547;4215;5338;4158;0;0;2335;5106;307;1108;0;0;421;1650;482;757;203;257;0;0;
+2600000;"ŚWIĘTOKRZYSKIE";672;2291;1310;821;0;0;320;726;137;114;0;0;0;0;0;0;0;0;0;0;
+2800000;"WARMIŃSKO-MAZURSKIE";2014;3387;0;0;0;0;162;341;96;250;0;0;0;0;0;0;0;0;0;0;
+3000000;"WIELKOPOLSKIE";1804;5805;3407;1817;853;1691;1831;3520;0;0;0;0;354;1274;337;565;201;455;0;0;
+3200000;"ZACHODNIOPOMORSKIE";804;2021;1578;1727;0;0;172;311;0;8;376;237;219;789;0;0;38;139;0;0;
