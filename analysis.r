@@ -66,30 +66,52 @@ plot(ca(data2), mass=c(T,T))
 
 
 # Absolwenci Uczelni wyzszych ---------------------------------------------------------------------
-data = absolwenci
+# Wojewodzctwo a płeć ---------------------------------------------------------------------
+data = plec
 data = data[-1,]
 rownames(data) <- data$Nazwa
 head(data)
-data2 <- data[,c(3:22)]
+data2 <- data[,c(3:4)]
+
 #rownames(data) <- data$Nazwa
 head(data2)
 data2 <- as.matrix(data2)
 
 
-colnames(data2) = c('uniwersytety_m', 'uniwersytety_k',
-                    'techniczne_m', 'techniczne_k', 
-                    'rolnicze_m', 'rolnicze_k', 
-                    'ekonomiczne_m', 'ekonomiczne_k',
-                    'pedagogiczne_m', 'pedagogiczne_k',
-                    'morskie_m', 'morskie_k',
-                    'medyczne_m', 'medyczne_k',
-                    'wf_m', 'wf_k',
-                    'artystyczne_m', 'artystyczne_k',
-                    'teologiczne_m', 'teologiczne_k')
-rownames(data2)
-colSums(data2)
-rowSums(data2)
+colnames(data2) = c('mezczyzni', 'kobiety')
+chisq.test(data2)
+
+palete <- rev(brewer.pal(11,"Spectral"))
+
+P <- data2/sum(data2)
+PP <- outer(rowSums(P), colSums(P))
+E <- (P - PP) / sqrt(PP)
+heatmap(E, scale='none', Colv=NA, col=palete)
+heatmap.2(E, scale='none', Colv=NA, density.info = 'none', trace='none', col=palete)
+
+plot(ca(data2), mass=c(T,T))
+
+# Wojewódzctwo a uczelnia ---------------------------------------------------------------------
+data = uczelnia
+data = data[-1,]
+rownames(data) <- data$Nazwa
+head(data)
+data2 <- data[,c(4:13)]
+#rownames(data) <- data$Nazwa
 head(data2)
+data2 <- as.matrix(data2)
+
+
+colnames(data2) = c('uniwersytety',
+                    'techniczne', 
+                    'rolnicze', 
+                    'ekonomiczne',
+                    'pedagogiczne',
+                    'morskie',
+                    'medyczne',
+                    'wf',
+                    'artystyczne',
+                    'teologiczne')
 
 chisq.test(data2)
 
