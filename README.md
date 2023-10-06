@@ -14,3 +14,20 @@ Below the first analysis of correspondence analysis:
 <img width="819" alt="Screenshot 2023-10-06 at 13 38 10" src="https://github.com/OrangePomeranian/PCA/assets/67764136/0a8dda98-29c0-42d6-b65c-98c4ae53c469">
 
 
+Also the Multivariate Correspondence Analysis:
+
+
+<img width="735" alt="Screenshot 2023-10-06 at 13 41 15" src="https://github.com/OrangePomeranian/PCA/assets/67764136/1105a7b8-6b16-48ca-9854-a92c6e5bd76a">
+
+<img width="736" alt="Screenshot 2023-10-06 at 13 41 37" src="https://github.com/OrangePomeranian/PCA/assets/67764136/7e8c26a9-77eb-4da1-ac38-e11496aabeb0">
+
+
+Finally the Multidimensional scalling
+
+<img width="738" alt="Screenshot 2023-10-06 at 13 42 13" src="https://github.com/OrangePomeranian/PCA/assets/67764136/bba114c0-4807-4ada-92e3-f1fba2c3b924">
+
+<img width="735" alt="Screenshot 2023-10-06 at 13 42 26" src="https://github.com/OrangePomeranian/PCA/assets/67764136/6907e5a9-e7fc-4b99-9439-9c5fb123f583">
+
+
+The slide below present all the colclusions that the project helped me to reach
+<img width="734" alt="Screenshot 2023-10-06 at 13 42 44" src="https://github.com/OrangePomeranian/PCA/assets/67764136/3cfc262b-f2cf-4c32-8d3e-9f3c49b83cc0">
